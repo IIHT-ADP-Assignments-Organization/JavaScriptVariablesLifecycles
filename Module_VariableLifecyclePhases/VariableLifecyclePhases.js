@@ -1,0 +1,3 @@
+<h1>Variable Lifecycle Phases</h1>
+<!-- 1. Register the variable in the corresponding scope, allocate memory for the variable, declare with 'var' get automatic value "undefined".assign value to the initialized variable. 2. In compilation phase variable is "initialized" & value is "undefined" & execution variable is "assigned" & has "value".explain the lifecycle. 3. perform undeclared variable lifecycle with sample example.                                               -->
+<!-- Do all remaining tasks here -->
